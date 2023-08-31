@@ -1,0 +1,28 @@
+.index_body{
+    background-color: #DEF5E5;
+}
+h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+small{
+ color: gray;
+ text-shadow: 0.5px 0.5px 0.5px #181D31;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding_login_right{
+    padding-top: 10vh;
+}
+
+.padding_login_left{
+    padding-top: 25vh;
+}
+
+
+
